@@ -17,8 +17,8 @@
 
 
 ### Работа над проектом ведется в команде.
-1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/kamneva/StankinFood)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://mrgizful.github.io/LandingPage/)
+1. Репозиторий проекта доступен по [ссылке](https://github.com/kamneva/StankinFood)
+2. Веб-страница с описанием проекта доступна по [ссылке](https://mrgizful.github.io/LandingPage/)
 
 
 ## ✅ Лабораторная работа № 3
