@@ -35,7 +35,7 @@
 
 Результат работы в формате .pka можно скачать по [ссылке](https://github.com/MrGizful/InternetTechnologySTANKIN/blob/main/Проект%20сети.pka), описание в формате .pdf доступно [здесь](https://github.com/MrGizful/InternetTechnologySTANKIN/blob/main/Настройка%20сети.pdf)
 
-## ✅ Экзаменационные билет №
+## ✅ Экзаменационные билет №1
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №](ссылка)
+[билет №1](https://github.com/stankin/inet-2022/wiki/exam01)
